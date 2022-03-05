@@ -1,2 +1,30 @@
-# Interview-Experience
-东南大学2023届面试经验分享
+# 东南大学 2023 届面试经验分享
+
+## 面试经历列表
+
+|                  链接                   |  姓名  |   日期    |   公司    | 岗位 |
+| :------------------------------------- | :----: | :-------: | :-------: | :--: |
+| [:link:钉钉前端一面-wj-爆炸](./doc/wj_dingding_fontend.md)  |  王骏  | 2022-2-21 | DingDing  | 前端 |
+| [:link:钉钉前端一面-byc（60 分钟）-凉了](./doc/byc_dingding_fontend.md) | 包亦成 | 2022-2-24 | DingDing  | 前端 |
+| [:link:飞书后端一面-wbj](./doc/wbj_bytedance_backend.md) | 王博杰 | 2022-2-25 | 字节-飞书 | 前端 |
+| [:link:字节前端一面-byc(50min) -凉了](./doc/byc_bytedance_fontend.md) |包亦成 | 2022-2-28 | 字节-飞书 | 后端 |
+| [:link:字节前端一面-xr-寄](./doc/xr_bytedance_fontend.md) |许润 | 2022-3-4 | 字节-飞书 | 前端 |
+
+## 有问题欢迎讨论
+
+- 如何提问
+  - [参考这篇文章](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)（我没读过，但觉得表达你的意思即可）
+- 利用 issues，讨论问题
+
+## 如何贡献你的经历
+
+- [参考模板](./template.md)
+- pull request?我也不会啊
+
+## 苟富贵，勿相忘
+
+> 有好的公司推荐，欢迎留下你的内推码和链接
+
+| 公司名 | 链接                                                 | 内推码 | 贡献者名 | 联系方式 |
+| :----- | :--------------------------------------------------- | :----: | :------: | :------: |
+| seu    | [世界第一理工大学.com](https://世界第一理工大学.com) |  666   |   隐私   |   隐私   |
