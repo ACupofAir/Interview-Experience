@@ -6,9 +6,9 @@
 | :------------------------------------- | :----: | :-------: | :-------: | :--: |
 | [:link:钉钉前端一面-wj-爆炸](./doc/wj_dingding_fontend.md)  |  王骏  | 2022-2-21 | DingDing  | 前端 |
 | [:link:钉钉前端一面-byc（60 分钟）-凉了](./doc/byc_dingding_fontend.md) | 包亦成 | 2022-2-24 | DingDing  | 前端 |
-| [:link:飞书后端一面-wbj](./doc/wbj_bytedance_backend.md) | 王博杰 | 2022-2-25 | 字节-飞书 | 前端 |
-| [:link:字节前端一面-byc(50min) -凉了](./doc/byc_bytedance_fontend.md) |包亦成 | 2022-2-28 | 字节-飞书 | 后端 |
-| [:link:字节前端一面-xr-寄](./doc/xr_bytedance_fontend.md) |许润 | 2022-3-4 | 字节-飞书 | 前端 |
+| [:link:飞书后端一面-wbj](./doc/wbj_bytedance_backend.md) | 王博杰 | 2022-2-25 | 字节-飞书 | 后端 |
+| [:link:字节前端一面-byc(50min) -凉了](./doc/byc_bytedance_fontend.md) |包亦成 | 2022-2-28 | 字节-电商 | 前端 |
+| [:link:字节前端一面-xr-寄](./doc/xr_bytedance_fontend.md) |许润 | 2022-3-4 | 字节-电商 | 前端 |
 
 ## 有问题欢迎讨论
 
