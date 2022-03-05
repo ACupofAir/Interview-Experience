@@ -1,4 +1,4 @@
-[:classical_building:点击返回目录](../README.md)
+[:derelict_house:点击返回目录](../README.md)
 
 # 字节前端一面-byc(50min) -凉了
 * 自我介绍

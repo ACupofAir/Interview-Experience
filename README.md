@@ -24,6 +24,12 @@
 - 修改上述文件，如果你有代码附件请放置`code`文件夹，markdown文件中引用的图片放于`images`文件夹，其它附件请放置`others`文件夹
 - 提交你的修改到你的本地仓库
 - 上传到自己的GitHub仓库，并申请`Pull Request`
+  * step1
+  ![](images/pr_example1.png)
+  * step2
+  ![](images/pr_example2.png)
+- 这样就可以啦 :airplane:
+ 
 
 
 
