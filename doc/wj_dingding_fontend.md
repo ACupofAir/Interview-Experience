@@ -6,9 +6,10 @@
 - 你最有成就感的项目，问几个页面，实现什么功能，你负责什么工作，然后其中的技术细节
 - 技术题
   - http 与 https 相关，好像要举什么例子，包包或许记得
-    _ 面经里有，要点应该是 ssl 实现那块，加密，公钥私钥
+    * 面经里有，要点应该是 ssl 实现那块，加密，公钥私钥
     跨域问题的解决方法（想问我 jsonp 可惜我不会）
-    _ 完整版推荐答案：https://segmentfault.com/a/1190000015597029 \* 简洁容易实践版：https://segmentfault.com/a/1190000015450909（这个jsonp的我跑起来有问题，how解决了教我一下）
+    * 完整版推荐答案：[:link:click here](https://segmentfault.com/a/1190000015597029 )
+    * 简洁容易实践版：[:link:click here](https://segmentfault.com/a/1190000015450909)（这个jsonp的我跑起来有问题，who解决了教我一下）
   - ajax 相关，同步异步
   - promise 相关
   - css 盒子模型
