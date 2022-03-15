@@ -11,5 +11,5 @@
 	* 关于并发控制,同时可以发送max个请求，全部发完调用回调函数。【写了30分钟还没写出来】
 	* var SendRequest（urls:string[],max:number,callback=>():void）{}
 * 有什么想问的。
-	* 我；您为什么选择前端岗
+	* 我：您为什么选择前端岗
 	* 面试官：当时准备学java的，我看java和js差不多，结果选了js，最后发现学错了

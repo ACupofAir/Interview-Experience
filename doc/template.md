@@ -1,4 +1,4 @@
-[:derelict_house:点击返回目录](README.md)
+[:derelict_house:点击返回目录](../README.md)
 # 你的标题，说明公司，职位即可
 
 <!-- 以下随意发挥 -->
@@ -18,4 +18,4 @@
 ```md
 * [附件:比如手撕代码,面试的试卷等](引用地址)
 ```
-* [面试代码原题](./code/template_code.py)
+* [面试代码原题](../code/template_code.py)
